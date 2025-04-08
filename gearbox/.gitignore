@@ -1,3 +1,4 @@
 # Ignore xg_ignore.ipynb inside the src directory
 /src/xg_ignore.ipynb
 /src/XgBoost.ipynb
+/data/
